@@ -629,6 +629,8 @@ async def root():
 async def options_handler():
     """Handle OPTIONS requests for CORS"""
     return {"message": "OK"}
+from fastapi import FastAPI
+app = FastAPI()
 
 if __name__ == "__main__":
     logger.info("🚀 Starting Enhanced HackerX Insurance QA System v2.1.0...")
