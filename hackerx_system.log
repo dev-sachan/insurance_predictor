@@ -1,0 +1,46 @@
+2025-08-07 00:08:22,892 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-07 00:08:22,893 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-07 00:08:28,250 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-08-07 00:20:02,804 - app - INFO - Initializing advanced NLP models...
+2025-08-07 00:20:02,816 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-07 00:20:02,817 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-07 00:20:06,466 - app - INFO - Sentence transformer loaded
+2025-08-07 00:20:10,539 - app - INFO -  QA pipeline loaded
+2025-08-07 00:20:10,802 - app - INFO - SpaCy model loaded
+2025-08-07 00:20:10,804 - app - INFO - All models initialized successfully
+2025-08-07 00:20:10,804 - app - INFO - Starting HackerX Advanced Insurance QA System...
+2025-08-07 00:20:10,804 - app - INFO - System startup complete
+2025-08-07 00:25:47,617 - app - INFO - Initializing advanced NLP models...
+2025-08-07 00:25:47,619 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-07 00:25:47,619 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-07 00:25:51,709 - app - INFO - Sentence transformer loaded
+2025-08-07 00:25:55,382 - app - INFO -  QA pipeline loaded
+2025-08-07 00:25:55,672 - app - INFO - SpaCy model loaded
+2025-08-07 00:25:55,672 - app - INFO - All models initialized successfully
+2025-08-07 00:25:55,672 - app - INFO - Starting HackerX Advanced Insurance QA System...
+2025-08-07 00:25:55,672 - app - INFO - System startup complete
+2025-08-07 00:27:37,144 - app - INFO - Initializing advanced NLP models...
+2025-08-07 00:27:37,146 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-07 00:27:37,147 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-07 00:27:41,247 - app - INFO - Sentence transformer loaded
+2025-08-07 00:27:44,821 - app - INFO -  QA pipeline loaded
+2025-08-07 00:27:45,092 - app - INFO - SpaCy model loaded
+2025-08-07 00:27:45,093 - app - INFO - All models initialized successfully
+2025-08-07 00:27:45,093 - app - INFO - Starting HackerX Advanced Insurance QA System...
+2025-08-07 00:27:45,093 - app - INFO - System startup complete
+2025-08-07 00:30:29,463 - app - INFO - Initializing advanced NLP models...
+2025-08-07 00:30:29,464 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-07 00:30:29,464 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-07 00:30:33,419 - app - INFO - Sentence transformer loaded
+2025-08-07 00:30:38,299 - app - INFO -  QA pipeline loaded
+2025-08-07 00:30:38,577 - app - INFO - SpaCy model loaded
+2025-08-07 00:30:38,577 - app - INFO - All models initialized successfully
+2025-08-07 00:30:38,579 - app - INFO - Starting HackerX Advanced Insurance QA System...
+2025-08-07 00:30:38,579 - app - INFO - System startup complete
+2025-08-07 00:36:16,811 - app - INFO - Initializing advanced NLP models...
+2025-08-07 00:36:16,812 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-08-07 00:36:16,813 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-07 00:36:20,499 - app - INFO - Sentence transformer loaded
+2025-08-07 00:36:24,322 - app - INFO -  QA pipeline loaded
+2025-08-07 00:36:24,610 - app - INFO - SpaCy model loaded
+2025-08-07 00:36:24,610 - app - INFO - All models initialized successfully
